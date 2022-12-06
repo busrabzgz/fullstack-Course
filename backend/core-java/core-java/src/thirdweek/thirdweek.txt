@@ -1,0 +1,181 @@
+
+
+
+
+
+ODEV 1
+/*----------------------------------------------------------------------------------------------------------------------
+	 Sınıf Çalışması: Parametresi ile aldığı bir yazının Türkçe pangram olup olmadığını test eden isPangramTR
+	 ve İngilizce pangram olup olmadığını test eden isPangramEN isimli metotları yazınız ve test ediniz.
+	 Pangram: İçerisinde özel isim bulunmayan anlamlı ve ilgili alfabenin tüm karakterlerini içeren cümlelere denir.
+	 Örnekler:
+	 İngilizce Pangram:
+	 	The quick brown fox jumps over the lazy dog
+	 Türkçe:
+	 	Pijamalı hasta yağız şoföre çabucak güvendi
+----------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ODEV 2
+/*----------------------------------------------------------------------------------------------------------------------
+	 Sınıf Çalışması: Parametresi ile aldığı bir yazının palindrom olup olmadığını test eden isPalindrome
+	 isimli metodu yazınız ve test ediniz
+	 Palindrom: Yalnızca alfabetik karakterleri tersten de okunduğunda aynı olan yazılara denir. Yani alfabetik
+	 dışı karakterler yok sayılır
+
+	 Örnek:
+	 ey edip Adana'da pide ye -> eyedipadanadapideye
+	 Anastas mum satsana -> anastasmumsatsana
+	 Ali Papila -> alipapila
+----------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ODEV 3
+/*----------------------------------------------------------------------------------------------------------------------
+	Sınıf çalışması: Parametresi ile aldığı int türden gün, ay ve yıl bilgilerine ilişkin tarihin aşağıdaki
+	açıklamalara göre haftanın hangi gününe geldiğini döndüren getDayOfWeek metodunu yazınız.
+	Açıklamalar:
+		- Metot geçersiz bir tarih için -1 değerini döndürecektir.
+		- Haftanın günü 1.1.1900 ile verilen tarih arasındaki gün sayısının 7 değerine modu alınarak bulunabilir
+		- 7 değerine mod alındıktan sonra sıfır Pazar, 1 pazartesi, .., 6 cumartesi günü için
+		elde edilecek değerdir
+		- 1.1.1900' den önceki tarihler geçersiz kabul edilecektir
+----------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ODEV 4
+/*----------------------------------------------------------------------------------------------------------------------
+	Sınıf çalışması: Klavyden int türden bir n sayısı isteyiniz. n elemanlı bir String dizisi yaratınız.
+	Bu dizinin her bir elemanını rasgele uzunlukta rasgele üretilmiş yazılarla doldurunuz. Bu işlemden sonra
+	dizinin elemanlarını aralarında - (tire) karakteri olacak şekilde birleştirip yeni bir String elde eden
+	programı yazınız
+----------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+/*----------------------------------------------------------------------------------------------------------------------
+	Sınıf çalışması: Klavyeden aşağıdaki formatta girilen bilgiyi ayrıştırarak ekrana yazdıran programı yazınız.
+	Not: Geçerlilik kontrolü yapılmayacaktır.
+
+	<isim>:<gg/aa/yyyy>:<ders adı>:<vize>:<final>
+	Oğuz karan:10/09/1976:Matematik:90:100
+
+	Bu formatta kişinin vize final notlarına vize * %40 + final * %60 formulüne göre geçme notunu hesaplayan ve doğum
+	tarihinin hangi güne geldiğini yazdıran programı yazınız
+
+----------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
